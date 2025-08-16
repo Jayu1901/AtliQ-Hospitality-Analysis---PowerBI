@@ -15,5 +15,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ---
-## 📊 [Live Dashboard](https://app.powerbi.com/links/zOgD7rNamc?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+## 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWE5NDc0MWQtYTE4NS00ZjI4LWE5MGMtNGMwNGRlMTA4YmM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
